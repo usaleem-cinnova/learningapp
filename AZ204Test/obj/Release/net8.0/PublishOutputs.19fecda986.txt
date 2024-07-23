@@ -1,0 +1,7 @@
+D:\AZ204 Resources\Codes\bin\Publish\AZ204Test.exe
+D:\AZ204 Resources\Codes\bin\Publish\appsettings.Development.json
+D:\AZ204 Resources\Codes\bin\Publish\appsettings.json
+D:\AZ204 Resources\Codes\bin\Publish\AZ204Test.dll
+D:\AZ204 Resources\Codes\bin\Publish\AZ204Test.deps.json
+D:\AZ204 Resources\Codes\bin\Publish\AZ204Test.runtimeconfig.json
+D:\AZ204 Resources\Codes\bin\Publish\AZ204Test.pdb
